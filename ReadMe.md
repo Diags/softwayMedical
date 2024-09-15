@@ -44,6 +44,7 @@ L'application utilise l'architecture Spring Boot pour structurer le projet en su
 └── pom.xml
 
 ```
+![Swagger UI](src/main/resources/img/result0.png)
 
 # Prérequis
 * JDK 21 ou plus récent.
