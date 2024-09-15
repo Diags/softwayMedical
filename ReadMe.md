@@ -46,9 +46,9 @@ L'application utilise l'architecture Spring Boot pour structurer le projet en su
 ```
 
 # Prérequis
-* JDK 17 ou plus récent.
+* JDK 21 ou plus récent.
 * Maven pour la gestion des dépendances.
-* Spring Boot 3.3
+* Spring Boot 3.3.3
 * Spring validation
 * Lombok
 * springdoc pour la documentation de l'apli
