@@ -61,7 +61,7 @@ L'application utilise l'architecture Spring Boot pour structurer le projet en su
 
  ``` 
 
- git clone https://github.com/votre-repository/softwaymedical.git
+ git clone https://github.com/Diags/softwaymedical.git
 
 ```
 * Naviguer dans le répertoire :
