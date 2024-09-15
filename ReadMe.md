@@ -97,11 +97,11 @@ curl -X GET "http://localhost:8080/departement/15"
 ```
 * Avec le jar 
 ```
-java -jar target/softwaymedical-1.0.0.jar
+java -jar target/softwaymedical-0.0.1-SNAPSHOT.jar
 
 Par defaut l'aplication sera lancer sur le port 8080. si vous souhaitez changez le port.
 
-java -jar target/softwaymedical-1.0.0.jar --server.port=9090
+java -jar target/softwaymedical-0.0.1-SNAPSHOT.jar --server.port=9090
 
 curl -X GET "http://localhost:8080/departement/15"
 ```
